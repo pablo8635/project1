@@ -1,5 +1,5 @@
 # Title
-Relation between junk food consumption, poverty threshold segmented by state, age and 
+Is there any relation between poverty level and qualtiy food consumption in the US?
 
 # Team Members 
 - Juan Pablo Sada
@@ -8,45 +8,58 @@ Relation between junk food consumption, poverty threshold segmented by state, ag
 - Pablo Beitman
 
 # Description  
-This project will try to find convincing evidence in order to conclude if there exists any correlation (positive or negative) and its degree between junk food consumption and poverty. The following questions will be answered to 
+ The following questions will be answered in order to find convincing evidence concluding if there exists any correlation between the successive variables and the interaction amongst them.
 
+# Variables
+State level 
+1) Poverty level vs Restaurant classification
+2) Poverty level vs Gender
+3) Poverty level vs Fruit and Vegetable consumption
+4) Poverty level vs Obesity 
+5) Poverty level vs Diabetes
+
+
+       
 # Questions to answers
-1) Are junk food companies causing diabetes increase in the population? 
-    a) What is the relation between junk food companies sales and diabetes casualties?
-2) Does more poverty causes higher diabetes casualties?
-3) Are junk food consumption tendencies interconnected to diabetes? What are the growth rate of junk food comapnies and diabetes and obesity on average? Are there related? # NO SE SI PONER ESA PREGUNTA
-4) Poorer municipalities consume more junk food?
+1) What is the relation between fast food consumption and
+    a) Gender
+    b) Obesity
+    c) Diabetes
+2) Are junk food consumption tendencies interconnected to income?
+    a) Does lower or higher income population have worst eating habits?
+    b) Is there a higher concentration of junk food restaurants in poorer or richer states?
+3) 
+4) 
 5)
 
+
+# Maps
+- Income level
+- Restaurants classified by:
+    - Low caloric level / Healthy food
+        - Definir que restaurantes entran aquí 
+    - Medium caloric level
+        - Definir que restarantes entran aquí 
+    - High caloric level / Junk food
+        - Definir que restaurantes entran aquí 
+        
+        
 # Datasets and Databases
-- Diabetes DB
+- Health DB
+    - Obesity: 
+    - Diabetes: 
 
-- Poberty DB
+- Poverty/Income DB
 
-- Financial DB
-    - https://finance.yahoo.com/
-    - https://www.gurufocus.com/
+- Age DB
+
+- Restaurant classification DB
+    - Restaurnats by state: 
+
+- Fruit and Vegetable consumption DB
 
 # Tasks 
-  1.Download financial statements which include: 
-  
-    Sales
-    Revenues
-    Costs
-    Margins
-    Utilities
-    Stock Price
-   
-   Companies to look for:
-   
-    McDonalds
-    Subway
-    Pizza Hut
-    Burger King
-    Frito Lay
-    Mars
-    Domino´s Pizza
-    
+  1. 
   2. Download diabetes and poberty DB
   3. Open, cleand and format csv´s
   4. Data exploration
@@ -54,6 +67,7 @@ This project will try to find convincing evidence in order to conclude if there 
      - Insights
      - EDA (exploratory data analysis) - graphics and results
      - Answer as many questions as possible
+     - Maps
   5. Obtain conclusions
   6. Build presentation 
   
