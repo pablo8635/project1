@@ -1,5 +1,5 @@
 # Title
-Are junk food companies the cause of diabetes and obesity?
+Relation between junk food consumption, poverty threshold segmented by state, age and 
 
 # Team Members 
 - Juan Pablo Sada
@@ -8,7 +8,7 @@ Are junk food companies the cause of diabetes and obesity?
 - Pablo Beitman
 
 # Description  
-Nowadays diabetes and obesity are major health problems, terminating with many people lifes. US/MX (to be decided) is currently ranked as the top country in obesity and under top 20 for diabetes casualties indices respectively. This project will conclude if there exists any correlation and how the degree of it (in case it exists) between junk food companies sales, poverty, diabetes and obesity casualties. In order to obtain convincing results several databases and datsets will be analyzed. 
+This project will try to find convincing evidence in order to conclude if there exists any correlation (positive or negative) and its degree between junk food consumption and poverty. The following questions will be answered to 
 
 # Questions to answers
 1) Are junk food companies causing diabetes increase in the population? 
