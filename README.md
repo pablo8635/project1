@@ -8,29 +8,40 @@ Is there any relation between poverty level and qualtiy food consumption in the 
 - Pablo Beitman
 
 # Description  
- The following questions will be answered in order to find convincing evidence concluding if there exists any correlation between the successive variables and how they interact. 
+
+In 2018, The Safety and Health Magazine reviewed data from 2013 to 2016 about junk food consumption related to age and family income. During this years approximately 85 million americans consumed fast food. Although junk food consumption decreased with age, it rose along with family income.
+Around 31.7% of lower-income, 36.4% middle-income and 42% high-income adults consumed junk food on a given day.
+Men are more likely to eat fast food for lunch that women do, representing an 48.3% against 39.1% respectively. On the other hand, women are more likely to consume fast food for a snack with a 25.7% vs 19.5%.
+A conclusive statement of this study is that due to the nutritional content of junk food, which is fat and sodium, and the increase of caloric intake US citizens are prone to obesity, diabetes and other health issues.
+https://www.safetyandhealthmagazine.com/articles/17784-nearly-37-percent-of-americans-regularly-eat-fast-food-study-shows
+Based on the conclusions of The Safety and Health Magazine publication, the objective of this study is to find the association of junk food consumption with several variables such as family income, obesity, diabetes, gender and state in the U.S from 2013 to 2018. 
+
 
 # Variables
-State level 
-1) Poverty level vs Restaurant classification
-2) Poverty level vs Gender
-3) Poverty level vs Fruit and Vegetable consumption
-4) Poverty level vs Obesity 
-5) Poverty level vs Diabetes
+1) Poverty income
+2) Gender
+3) Obesity
+4) Diabetes
+5) Type of food
+6) Restaurant classification
+7) State
 
 
        
 # Questions
-1) What is the relation between fast food consumption and
-    - Gender
-    - Obesity
-    - Diabetes
-2) Are junk food consumption tendencies interconnected to income?
-    - Does lower or higher income population have worst eating habits?
-    - Is there a higher concentration of junk food restaurants in poorer or richer states?
-3) 
-4) 
-5)
+1) What is the relation between junk food consumption and the following variables?
+    -Gender
+    -Obesity
+    -Diabetes
+    -Family income
+    -State
+Note: Here we have to calculate the correlation between each comparison.
+2) Does lower income families have worse eating habits than higher income families?
+3) Are junk food restaurants more concentrated in low-income family states?
+4) Is junk food consumption trend in the U.S. increasing each year?
+Note: Here we have to check the estimation of how many people are consuming junk food each year.
+5) Which are the top 10 states that show an increasing trend of junk food consumption?
+6) Are women of low-income family decreasing their junk food consumption as well as women of high-income family?
 
 
 # Maps
