@@ -13,8 +13,11 @@ In 2018, The Safety and Health Magazine reviewed data from 2013 to 2016 about ju
 Around 31.7% of lower-income, 36.4% middle-income and 42% high-income adults consumed junk food on a given day.
 Men are more likely to eat fast food for lunch that women do, representing an 48.3% against 39.1% respectively. On the other hand, women are more likely to consume fast food for a snack with a 25.7% vs 19.5%.
 A conclusive statement of this study is that due to the nutritional content of junk food, which is fat and sodium, and the increase of caloric intake, US citizens are prone to obesity, diabetes and other health issues.
-https://www.safetyandhealthmagazine.com/articles/17784-nearly-37-percent-of-americans-regularly-eat-fast-food-study-shows
+
+
 Based on the conclusions of The Safety and Health Magazine publication, the objective of this study is to find the association of junk food consumption with several variables such as family income, obesity, diabetes, gender and state in the U.S from 2013 to 2018. 
+
+https://www.safetyandhealthmagazine.com/articles/17784-nearly-37-percent-of-americans-regularly-eat-fast-food-study-shows
 
 
 # Variables
