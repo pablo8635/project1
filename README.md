@@ -1,5 +1,5 @@
 # Title
-Is there any relation between socio economic level and qualtiy food consumption in the US?
+Is there any relation between socio-economic level and qualtiy food consumption in the US?
 
 # Team Members 
 - Juan Pablo Sada
