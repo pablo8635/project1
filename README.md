@@ -8,7 +8,7 @@ Is there any relation between poverty level and qualtiy food consumption in the 
 - Pablo Beitman
 
 # Description  
- The following questions will be answered in order to find convincing evidence concluding if there exists any correlation between the successive variables and the interaction amongst them.
+ The following questions will be answered in order to find convincing evidence concluding if there exists any correlation between the successive variables and how they interact. 
 
 # Variables
 State level 
@@ -35,6 +35,14 @@ State level
 
 # Maps
 - Income level
+- Sickness casualties 
+    - Cardiovascular and Diabetes
+       - Gender
+       - Age
+       - Level of education
+       - Race
+       - Socio-economic level
+       - 
 - Restaurants classified by:
     - Low caloric level / Healthy food
         - Definir que restaurantes entran aquí 
@@ -44,19 +52,29 @@ State level
         - Definir que restaurantes entran aquí 
         
         
-# Datasets and Databases
+# Datasets and Databases - Falta describir las variables y columnas de cada una de las bases de datos.
+
+- All inclusive DB
+https://www.americashealthrankings.org/explore/annual/measure/Obesity/state/ALL
 - Health DB
-    - Obesity: 
+    - Obesity:        http://www.healthdata.org/sites/default/files/files/data_for_download/alcohol_life_expect/IHME_county_data_LifeExpectancy_Obesity_PhysicalActivity_NATIONAL.xlsx
+
+
     - Diabetes: 
+http://www.healthdata.org/sites/default/files/files/data_for_download/alcohol_life_expect/IHME_county_data_Diabetes_NATIONAL.xlsx
 
 - Poverty/Income DB
 
 - Age DB
 
 - Restaurant classification DB
-    - Restaurnats by state: 
+ https://www.kaggle.com/datafiniti/fast-food-restaurants#FastFoodRestaurants.csv
 
 - Fruit and Vegetable consumption DB
+
+
+# API´s
+- Restaurant classification API - https://developer.factual.com/docs
 
 # Tasks 
   1. 
