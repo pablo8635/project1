@@ -104,4 +104,7 @@ Adriana
  - Hipotesis 
  - Analisis estadistico 
  - Plots
+ 
+Juan Pablo
+ - Mapas
 
