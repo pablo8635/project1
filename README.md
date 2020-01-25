@@ -20,7 +20,7 @@ State level
 
 
        
-# Questions to answers
+# Questions
 1) What is the relation between fast food consumption and
     a) Gender
     b) Obesity
@@ -76,16 +76,11 @@ http://www.healthdata.org/sites/default/files/files/data_for_download/alcohol_li
 # API´s
 - Restaurant classification API - https://developer.factual.com/docs
 
-# Tasks 
-  1. 
-  2. Download diabetes and poberty DB
-  3. Open, cleand and format csv´s
-  4. Data exploration
-     - Statistial information .describe()
-     - Insights
-     - EDA (exploratory data analysis) - graphics and results
-     - Answer as many questions as possible
-     - Maps
-  5. Obtain conclusions
-  6. Build presentation 
-  
+# Tasks - https://towardsdatascience.com/5-steps-of-a-data-science-project-lifecycle-26c50372b492
+  1. Obtain data - obtain the data needed from available data sources.
+  2. Scrub data (organize and tidy) - clean, filter, consolidate, extract, replace, split, merge, extract data.
+  3. Explore data - compute desriptive statistics -.describe()- to test significant variables and extract singiciant features, EDA (exploratory data analysis) - insights and results.
+  4. Model data - reduce datasets dimensionalty, linear regressions, graphs, 
+  5. Data interpretation
+  6. Presentation 
+    
