@@ -21,15 +21,10 @@ https://www.safetyandhealthmagazine.com/articles/17784-nearly-37-percent-of-amer
 
 
 # Variables
-1) Poverty income
-2) Gender
-3) Obesity
-4) Diabetes
-5) Type of food
-6) Restaurant classification
-7) State
-
-
+1) Income
+2) Obesity
+3) Diabetes
+4) Restaurant classification (only map)
        
 # Questions
 1) What is the relation between junk food consumption and the following variables?
@@ -56,14 +51,11 @@ Note: Here we have to check the estimation of how many people are consuming junk
        - Level of education
        - Race
        - Socio-economic level
-       - 
 - Restaurants classified by:
     - Low caloric level / Healthy food
-        - Definir que restaurantes entran aquí 
-    - Medium caloric level
-        - Definir que restarantes entran aquí 
+        - Vegan
+        - Organic 
     - High caloric level / Junk food
-        - Definir que restaurantes entran aquí 
         
         
 # Datasets and Databases - Falta describir las variables y columnas de cada una de las bases de datos.
@@ -97,4 +89,5 @@ http://www.healthdata.org/sites/default/files/files/data_for_download/alcohol_li
   4. Model data - reduce datasets dimensionalty, linear regressions, graphs, 
   5. Data interpretation
   6. Presentation 
+ 
     
