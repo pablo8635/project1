@@ -90,4 +90,18 @@ http://www.healthdata.org/sites/default/files/files/data_for_download/alcohol_li
   5. Data interpretation
   6. Presentation 
  
-    
+   
+# Tasks x persona
+Erick
+ - BD restaurantes: limpieza y generación de dataframes de 2016, 2017 y 2018 para mapear 
+ 
+Pablo
+ - Subir archivos y crear branches 
+ - BD globales: diabetes, obesidad, household income 
+ - Plots
+
+Adriana
+ - Hipotesis 
+ - Analisis estadistico 
+ - Plots
+
