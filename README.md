@@ -22,12 +22,12 @@ State level
        
 # Questions
 1) What is the relation between fast food consumption and
-    a) Gender
-    b) Obesity
-    c) Diabetes
+    - Gender
+    - Obesity
+    - Diabetes
 2) Are junk food consumption tendencies interconnected to income?
-    a) Does lower or higher income population have worst eating habits?
-    b) Is there a higher concentration of junk food restaurants in poorer or richer states?
+    - Does lower or higher income population have worst eating habits?
+    - Is there a higher concentration of junk food restaurants in poorer or richer states?
 3) 
 4) 
 5)
