@@ -1,5 +1,5 @@
 # Title
-Is there any relation between socio-economic level and qualtiy food consumption in the US?
+Is there any relation between socio-economic level and qualtiy food consumption in the US and what impact/consequences has it had on obesity and diabetes prevalences rates? 
 
 # Team Members 
 - Juan Pablo Sada
