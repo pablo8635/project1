@@ -37,15 +37,10 @@ Age
 Level of education
 Race
 Socio-economic level
-Restaurants classified by:
-Low caloric level / Healthy food
-Vegan
-Organic
-High caloric level / Junk food
 
 # Datasets and Databases - Falta describir las variables y columnas de cada una de las bases de datos.
 
-All inclusive DB https://www.americashealthrankings.org/explore/annual/measure/Obesity/state/ALL
+https://www.americashealthrankings.org/explore/annual/measure/Obesity/state/ALL
 
 Health DB
 
