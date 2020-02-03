@@ -28,15 +28,17 @@ This excercise is seeking to answer the following questions, clarifying the curr
 
 
 # Questions
-  1. Correlation 
-      - Income and variables
+  1. What is the correlation between?
+      - Income and all other variables
       - Heart attack and obesity
       - Heart attack and diabetes
       - 
-
+  2. 
+  3.
+  4.
+  5.
 
 # Datasets and Databases 
-
 - https://www.americashealthrankings.org/explore/annual
 
 PONGAN LOS LINKS DE LAS BASES DE DATOS QUE USARON
@@ -51,4 +53,5 @@ PONGAN LOS LINKS DE LAS BASES DE DATOS QUE USARON
 6. Data interpretation
 7. Presentation
 
+# Conclusions
 
