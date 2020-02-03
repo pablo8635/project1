@@ -1,5 +1,5 @@
 # Title
-Is there any relation between socio-economic level and qualtiy food consumption in the US?
+Is there any relation amongst US population socio-economic level and some of the most common diseases related with sedentary life style like Cardiovascular Deaths, diabetes, heart attacks, high blood pressure, obesity?
 
 # Team Members
 - Juan Pablo Sada
@@ -7,80 +7,48 @@ Is there any relation between socio-economic level and qualtiy food consumption 
 - Erick Castillo
 - Pablo Beitman
 
+# Hypothesis
+
+
 # Description
-In 2018, The Safety and Health Magazine reviewed data from 2013 to 2016 about junk food consumption related to age and family income. During this years approximately 85 million americans consumed fast food. Although junk food consumption decreased with age, it rose along with family income. Around 31.7% of lower-income, 36.4% middle-income and 42% high-income adults consumed junk food on a given day. Men are more likely to eat fast food for lunch that women do, representing an 48.3% against 39.1% respectively. On the other hand, women are more likely to consume fast food for a snack with a 25.7% vs 19.5%. A conclusive statement of this study is that due to the nutritional content of junk food, which is fat and sodium, and the increase of caloric intake, US citizens are prone to obesity, diabetes and other health issues.
+Cardiovascular and high blood pressure diseases are among the leading causes of global mortality and is expected to rise over the next few decades, mainly due to aging. Eventhough a clear relation exists, other factors are also affecting growth rates. **The hypothesis states a relation between low socioeconomic level (income) and higher rates of diseases, supposing the population is less educated on health topics.**  PONER ALGO MAS AQUI
 
-Based on the conclusions of The Safety and Health Magazine publication, the objective of this study is to find the association of junk food consumption with several variables such as family income, obesity, diabetes, gender and state in the U.S from 2013 to 2018.
+As the income gap between rich and poor widens, the importance of monitoring health disparities across the income spectrum rises, and the debated amount of appropriate government spending on health care makes income-related health inequality an even more relevant subject to study. 
 
-https://www.safetyandhealthmagazine.com/articles/17784-nearly-37-percent-of-americans-regularly-eat-fast-food-study-shows
+This excercise is seeking to answer the following questions, clarifying the current trends and behaviours of this disases through the income spectrum from 2015 to 2018. 
 
-# Variables
+
+# Variables and maps 
   - Income
-  - Obesity
-  - Diabetes
-  - Restaurant classification (only map)
+  - Obesity %
+  - Diabetes %
+  - Heart attack diseases ratio
+  - High blood pressure %
+  - Cardiovascular death ratio
+
 
 # Questions
-  - What is the relation between junk food consumption and the following variables? -Gender -Obesity -Diabetes -Family income -State Note: Here we have to calculate the correlation between each comparison.
-  - Does lower income families have worse eating habits than higher income families?
-  - Are junk food restaurants more concentrated in low-income family states?
-  - Is junk food consumption trend in the U.S. increasing each year? Note: Here we have to check the estimation of how many people are consuming junk food each year.
-  - Which are the top 10 states that show an increasing trend of junk food consumption?
-  - Are women of low-income family decreasing their junk food consumption as well as women of high-income family?
-  
-# Maps
-Income level
-Sickness casualties
-Cardiovascular and Diabetes
-Gender
-Age
-Level of education
-Race
-Socio-economic level
+  1. Correlation 
+      - Income and variables
+      - Heart attack and obesity
+      - Heart attack and diabetes
+      - 
 
-# Datasets and Databases - Falta describir las variables y columnas de cada una de las bases de datos.
 
-https://www.americashealthrankings.org/explore/annual/measure/Obesity/state/ALL
+# Datasets and Databases 
 
-Health DB
+- https://www.americashealthrankings.org/explore/annual
 
-Obesity: http://www.healthdata.org/sites/default/files/files/data_for_download/alcohol_life_expect/IHME_county_data_LifeExpectancy_Obesity_PhysicalActivity_NATIONAL.xlsx
+PONGAN LOS LINKS DE LAS BASES DE DATOS QUE USARON
 
-Diabetes: http://www.healthdata.org/sites/default/files/files/data_for_download/alcohol_life_expect/IHME_county_data_Diabetes_NATIONAL.xlsx
 
-Poverty/Income DB
+# Tasks 
+1. Define topic and formulate questions
+2. Obtain data - obtain the data needed from available data sources.
+3. Scrub data (organize and tidy) - clean, filter, consolidate, extract, replace, split, merge, extract data.
+4. Explore data - compute desriptive statistics -.describe()- to test significant variables and extract singiciant features, EDA (exploratory data analysis) - insights and results.
+5. Model data - reduce datasets dimensionalty, linear regressions, graphs,
+6. Data interpretation
+7. Presentation
 
-Age DB
 
-Restaurant classification DB https://www.kaggle.com/datafiniti/fast-food-restaurants#FastFoodRestaurants.csv
-
-Fruit and Vegetable consumption DB
-
-#API´s
-Restaurant classification API - https://developer.factual.com/docs
-
-# Tasks - https://towardsdatascience.com/5-steps-of-a-data-science-project-lifecycle-26c50372b492
-1. Obtain data - obtain the data needed from available data sources.
-2. Scrub data (organize and tidy) - clean, filter, consolidate, extract, replace, split, merge, extract data.
-3. Explore data - compute desriptive statistics -.describe()- to test significant variables and extract singiciant features, EDA (exploratory data analysis) - insights and results.
-4. Model data - reduce datasets dimensionalty, linear regressions, graphs,
-5. Data interpretation
-6. Presentation
-
-# Tasks x persona
-
-Erick
-BD restaurantes: limpieza y generación de dataframes de 2016, 2017 y 2018 para mapear
-
-Pablo
-Subir archivos y crear branches
-BD globales: diabetes, obesidad, household income
-Plots
-
-Adriana
-Hipotesis
-Analisis estadistico
-Plots
-
-Juan Pablo
-Mapas
