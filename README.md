@@ -11,13 +11,15 @@ Team Members
 # Hypothesis
 
 People with high socioeconomic level get less diseases/illnesses related with sedentary life style and junk food consumption because they have more health education due to more opportunities and greater access to information.
-Description
+
+# Description
 
 Cardiovascular and high blood pressure diseases are among the leading causes of global mortality and is expected to rise over the next few decades, mainly due to aging. Eventhough a clear relation exists, other factors are also affecting growth rates. The hypothesis states a relation between low socioeconomic level (income) and higher rates of diseases, supposing the population is less educated on health topics.
 The United Stes is one of the Top countries being consistently affected during the last years by both, aging and disparity of income between the extreme edges of the economically active population.
 As the income gap between rich and poor widens, the importance of monitoring health disparities across the income spectrum rises, and the debated amount of appropriate government spending on health care makes income-related health inequality an even more relevant subject to study.
 This excercise is seeking to answer the following questions, clarifying the current trends and behaviours of this disases through the income spectrum from 2015 to 2018.
-Variables and maps
+
+# Variables and maps
 
 * Income
 * Obesity %
@@ -26,18 +28,21 @@ Variables and maps
 * High blood pressure %
 * Cardiovascular death ratio
 High blood pressure: Percetage of adults who reported bieng told by a health professional that they have high blood pressure. Diabetes: Percentage of adults who reported being told by a health professional that they have diabetes (excluding prediabetes and gestional diabetes). Cardiovascular deathts: Number of deaths due to all cardiovascular diseases including heart disease and stroke pre 100,000 population (3-year estimate age-adjusted to mid-year). Hear attack: Percentage of adults who reported being told by a health professional that they had a heart attack (myocardial infarction). Obesity: Percentage of adults with a body mass index of 30 or higher based on reportes height and weight.
-Questions
+
+# Questions
 
 1. What is the correlation between: Income and diabetes, obesity, heart attacks, highblood pressure and cardiovascular deaths
 2. Which of the previously explained deseases has the biggest growth rate during the last years?
 3. According to the analized data,income disparity among US popullation is generating poor people to become exposed to sicknesses?
 4. What conlusions can We infer about the median household income data?
 5. Do the data sets behave as normal distribution? If not, how should these datasets be analized?
-Datasets and Databases
+
+# Datasets and Databases
 
 https://www.americashealthrankings.org/explore/annual
 https://www.census.gov/library/stories/2019/09/us-median-household-income-up-in-2018-from-2017.html
-Tasks
+
+# Tasks
 
 1. Define topic and formulate questions
 2. Obtain data - obtain the data needed from available data sources.
@@ -46,7 +51,8 @@ Tasks
 5. Model data - reduce datasets dimensionalty, linear regressions, graphs,
 6. Data interpretation
 7. Presentation
-Data Interpretation
+
+# Data Interpretation
 
 Data Sets distribution
 Data sets shows mixed results, even when median household income has significantly increased during the analized four year period
@@ -67,7 +73,8 @@ Highblood pressure shows a negative correlation from -68% to -73%, something int
 Do the 6 variables to study have a normality distribution in order to be analyzed as it?
 H0= The data has a normal distribution. Ha= The data does not have a normal distribution.
 The variable Heart Attack in the years 2015 and 2017 reject the null hypothesis with p-values of 0.036112 and 0.012007, respectively and with a significance level of 0.05. The rest of the variable accept the null hypothesis with a significance level of 0.05
-Conclusions
+
+# Conclusions
 
 As a general overview, this analysis represents a good first approach to undestand how annual household income is strongly related to each of the variables, is income the only variable? For sure not but is truly one of tha main variables that may suggest how a better dealing with these deseases can be made. Huge questions come to our team like why with these results, there is no boom of cheap healthy-industry? US people just do not want it? Or just do not know how harmful their current habbits are?
 
