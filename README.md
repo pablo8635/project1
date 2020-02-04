@@ -11,7 +11,9 @@ Is there any relation amongst US population socioeconomic level and some of the 
 People with high socioeconomic level get less diseases/illnesses related with sedentary life style and junk food consumption because they have more health education due to more opportunities and greater access to information. 
 
 # Description
-Cardiovascular and high blood pressure diseases are among the leading causes of global mortality and is expected to rise over the next few decades, mainly due to aging. Eventhough a clear relation exists, other factors are also affecting growth rates. **The hypothesis states a relation between low socioeconomic level (income) and higher rates of diseases, supposing the population is less educated on health topics.**  PONER ALGO MAS AQUI
+Cardiovascular and high blood pressure diseases are among the leading causes of global mortality and is expected to rise over the next few decades, mainly due to aging. Eventhough a clear relation exists, other factors are also affecting growth rates. **The hypothesis states a relation between low socioeconomic level (income) and higher rates of diseases, supposing the population is less educated on health topics.**  
+
+The United Stes is one of the Top countries being consistently affected during the last years by both, aging and disparity of income between the extreme edges of the economically active population.
 
 As the income gap between rich and poor widens, the importance of monitoring health disparities across the income spectrum rises, and the debated amount of appropriate government spending on health care makes income-related health inequality an even more relevant subject to study. 
 
@@ -40,10 +42,10 @@ Obesity: Percentage of adults with a body mass index of 30 or higher based on re
       - Heart attack and obesity
       - Heart attack and diabetes
       - 
-  2. 
-  3.
-  4.
-  5.
+  2. Which of the previously explained deseases has the biggest growth 	rate during the last years?
+3. According to the analized data,income disparity among US popullation 	is generating poor people to become exposed to sicknesses?
+  4. What conlusions can We infer about the median household income data?
+  5. Do the data sets behave as normal distribution? If not, how should these datasets be analized?
 
 # Datasets and Databases 
 - https://www.americashealthrankings.org/explore/annual
@@ -60,5 +62,22 @@ PONGAN LOS LINKS DE LAS BASES DE DATOS QUE USARON
 6. Data interpretation
 7. Presentation
 
+# Data Interpretation
+
+Data sets shows mixed results, even when median household income has significantly increased, highblood pressure and cardiovascular deaths rate behaved stable in terms of total range and median
+
+Heart attacks rate is also stable but shows a reduction of 1% in the data located in 4th quartile during the last two years.
+
+
+
+
+
+Diabetes 
+
+Obesity is by far the disease with the highest incremental rate not only by average of people affected but by showing data is located in the 3rd and 4rth quartile  
+
+
 # Conclusions
+
+Ma
 
