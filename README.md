@@ -38,10 +38,9 @@ Obesity: Percentage of adults with a body mass index of 30 or higher based on re
 
 # Questions
   1. What is the correlation between?
-      - Income and all other variables
-      - Heart attack and obesity
-      - Heart attack and diabetes
-      - 
+      - Income and  diabetes, obesity, heart attacks, highblood pressure     	and cardiovascular deaths 
+		
+
   2. Which of the previously explained deseases has the biggest growth 	rate during the last years?
 3. According to the analized data,income disparity among US popullation 	is generating poor people to become exposed to sicknesses?
   4. What conlusions can We infer about the median household income data?
@@ -64,20 +63,35 @@ PONGAN LOS LINKS DE LAS BASES DE DATOS QUE USARON
 
 # Data Interpretation
 
-Data sets shows mixed results, even when median household income has significantly increased, highblood pressure and cardiovascular deaths rate behaved stable in terms of total range and median
+Data Sets distribution
 
-Heart attacks rate is also stable but shows a reduction of 1% in the data located in 4th quartile during the last two years.
-
-
-
+Data sets shows mixed results, even when median household income has significantly increased during the analized four year period, highblood pressure and cardiovascular deaths rate behaved stable in terms of total range and median. 
+All these datasets present a normal behavior when histogram graphs are made, concentration the peak of cases in people aged from 30 to 35 years old, Normality test shoul be run. Through years 2015 to 2018 no changes in how data is distributed can be appreciated.
 
 
-Diabetes 
+Heart attacks rate is also stable but shows a reduction of 1% in the data located al across the  4th quartile during the last two years.
+Histogram reflects that most of the cases are located in a range from 4 to 5 % of popullation and apparently a normal behaviour. Normality test shoul be run. Through years 2015 to 2018 no changes in how data is distributed can be appreciated except for obesity graphs where a little trend change is located and can be explained by population aging.
+
+Diabetes data distribution is probably the most inconsistent in terms of distribution, histogram graphs reflect no trends in their behavior but box plot graphs show that either ranges and median is stable through the years.
+
 
 Obesity is by far the disease with the highest incremental rate not only by average of people affected but by showing data is located in the 3rd and 4rth quartile  
+
+Correlation Desease vs Annual household income and 
+
+Diabetes has negative correlation with a min of -61% during 2018 and a maximun of -77%. That basically means that people with more income is less exposed to get diabetes deseases.
+
+Heart Attack has also a negative correlation with range from -66% to -79% again it confirms low income people es more exposed to heart attacks.
+
+Obesity has a negative dependency to annual household income refleted by a correlation from -59% to -72% during the 4 year analized period. This desease is the one that presentd the lowest correlation factor among all the analized deseases, this result suggest that not only but additional variables are lated to this desease.
+
+Highblood pressure shows a negative correlation from -68% to -73%, something  interesting is the fact highblood pressure is the only desease that shows a slightly but consistent reduction of dependency vs anual household income, from -73% in 2016 up to -68% during 2018, is there aditional factors that are helping people to get over HBP? Aditional data and a deep dive may help for better understanding.
 
 
 # Conclusions
 
-Ma
+As a general overview, this analysis represents a good first approach to undestand how annual household income is strongly related to each of the variables, is income the only variable? For sure not but is truly one of tha main variables that may suggest how a better dealing with these deseases can be made. Huge questions come to our team like why  with these results, there is no boom of  cheap healthy-industry? US people just do not want it? Or just do not know how harmful their current habbits are?  
+Why informative campaings are not the banner of any goverment or administraton? 
+
+All these questions are now on the tabble waiting to be answered in further analysis.
 
