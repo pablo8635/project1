@@ -1,5 +1,5 @@
 # Title
-Is there any relation amongst US population socio-economic level and some of the most common diseases related with sedentary life style like Cardiovascular Deaths, diabetes, heart attacks, high blood pressure, obesity?
+Is there any relation amongst US population socioeconomic level and some of the most common diseases related with sedentary life style and junk food consumption like cardiovascular deaths, diabetes, heart attacks, high blood pressure and obesity?
 
 # Team Members
 - Juan Pablo Sada
@@ -8,7 +8,7 @@ Is there any relation amongst US population socio-economic level and some of the
 - Pablo Beitman
 
 # Hypothesis
-
+People with high socioeconomic level get less diseases/illnesses related with sedentary life style and junk food consumption because they have more health education due to more opportunities and greater access to information. 
 
 # Description
 Cardiovascular and high blood pressure diseases are among the leading causes of global mortality and is expected to rise over the next few decades, mainly due to aging. Eventhough a clear relation exists, other factors are also affecting growth rates. **The hypothesis states a relation between low socioeconomic level (income) and higher rates of diseases, supposing the population is less educated on health topics.**  PONER ALGO MAS AQUI
