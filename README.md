@@ -25,6 +25,13 @@ This excercise is seeking to answer the following questions, clarifying the curr
   - Heart attack diseases ratio
   - High blood pressure %
   - Cardiovascular death ratio
+  
+  
+High blood pressure: Percetage of adults who reported bieng told by a health professional that they have high blood pressure.
+Diabetes: Percentage of adults who reported being told by a health professional that they have diabetes (excluding prediabetes and gestional diabetes).
+Cardiovascular deathts: Number of deaths due to all cardiovascular diseases including heart disease and stroke pre 100,000 population (3-year estimate age-adjusted to mid-year).
+Hear attack: Percentage of adults who reported being told by a health professional that they had a heart attack (myocardial infarction).
+Obesity: Percentage of adults with a body mass index of 30 or higher based on reportes height and weight.
 
 
 # Questions
