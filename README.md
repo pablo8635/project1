@@ -37,20 +37,18 @@ Obesity: Percentage of adults with a body mass index of 30 or higher based on re
 
 
 # Questions
-  1. What is the correlation between?
-      - Income and  diabetes, obesity, heart attacks, highblood pressure     	and cardiovascular deaths 
-		
+1. What is the correlation between:
+      Income and  diabetes, obesity, heart attacks, highblood pressure     	and cardiovascular deaths 
 
-  2. Which of the previously explained deseases has the biggest growth 	rate during the last years?
+2. Which of the previously explained deseases has the biggest growth            	rate during the last years?
 3. According to the analized data,income disparity among US popullation 	is generating poor people to become exposed to sicknesses?
-  4. What conlusions can We infer about the median household income data?
-  5. Do the data sets behave as normal distribution? If not, how should these datasets be analized?
+4. What conlusions can We infer about the median household income data?
+5. Do the data sets behave as normal distribution? If not, how should these datasets be analized?
 
 # Datasets and Databases 
-- https://www.americashealthrankings.org/explore/annual
+ https://www.americashealthrankings.org/explore/annual
 
-PONGAN LOS LINKS DE LAS BASES DE DATOS QUE USARON
-
+https://www.census.gov/library/stories/2019/09/us-median-household-income-up-in-2018-from-2017.html
 
 # Tasks 
 1. Define topic and formulate questions
@@ -65,17 +63,64 @@ PONGAN LOS LINKS DE LAS BASES DE DATOS QUE USARON
 
 Data Sets distribution
 
-Data sets shows mixed results, even when median household income has significantly increased during the analized four year period, highblood pressure and cardiovascular deaths rate behaved stable in terms of total range and median. 
-All these datasets present a normal behavior when histogram graphs are made, concentration the peak of cases in people aged from 30 to 35 years old, Normality test shoul be run. Through years 2015 to 2018 no changes in how data is distributed can be appreciated.
+Data sets shows mixed results, even when median household income has significantly increased during the analized four year period 
 
 
-Heart attacks rate is also stable but shows a reduction of 1% in the data located al across the  4th quartile during the last two years.
+
+
+
+
+
+Annual Household Income (By region/scale)
+
+
+
+
+
+
+
+The barplot shows that Region 1 and Region 2, which are the states with the lowest Median Household Income, have decreased considerably being in 2018 only 5 states compared to the 11 states in 2015. Region 5 presents the states that have the highest Median Household Income. It is clear that the tendency is increasing year by year.
+In the case of Region 3, in 2015 was the region with the highest number of states belonging to this classification. However, it shows a considerably decreased, but recover in the following 2 years.
+
+Continuing with the analysis, by seeing histograms only, all the datasets may present a normal behavior, We can notice concentrating the peak of cases in people aged from 30 to 35 years old and. The median of each year is close to 60,000 USD yearly. However, 2017 and 2018 have the major variance compared to 2015 and 2016. No outliers are present.
+
+
+
+
+
+
+
+
+Histogram Annual Household income
+
+
+
+
+
+Through years 2015 to 2018 no radical changes in how data is distributed can be appreciated.
+
+highblood pressure and cardiovascular deaths rate behaved stable in terms of total range and median.
+In High Blood Pressure, it is clear that is the variable that has more outliers in compared to the rest the variables to be analyzed. All years have a bias to the right side.
+
+
+ 
+
+
+
+
+Heart attacks rate is  stable but shows a reduction of 1% in the data located al across the  4th quartile during the last two years.
 Histogram reflects that most of the cases are located in a range from 4 to 5 % of popullation and apparently a normal behaviour. Normality test shoul be run. Through years 2015 to 2018 no changes in how data is distributed can be appreciated except for obesity graphs where a little trend change is located and can be explained by population aging.
 
+
+
 Diabetes data distribution is probably the most inconsistent in terms of distribution, histogram graphs reflect no trends in their behavior but box plot graphs show that either ranges and median is stable through the years.
+The year that has the lowest variance compared to the rest of the years is 2015. Nevertheless, it has a slight bias to the right. The years 2017 and 2018 have an outlier each one.
 
+ 
 
-Obesity is by far the disease with the highest incremental rate not only by average of people affected but by showing data is located in the 3rd and 4rth quartile  
+Obesity is by far the disease with the highest incremental rate not only by average of people affected but by showing data is located in the 3rd and 4rth quartile 
+ 
+
 
 Correlation Desease vs Annual household income and 
 
@@ -83,15 +128,24 @@ Diabetes has negative correlation with a min of -61% during 2018 and a maximun o
 
 Heart Attack has also a negative correlation with range from -66% to -79% again it confirms low income people es more exposed to heart attacks.
 
-Obesity has a negative dependency to annual household income refleted by a correlation from -59% to -72% during the 4 year analized period. This desease is the one that presentd the lowest correlation factor among all the analized deseases, this result suggest that not only but additional variables are lated to this desease.
+Obesity has a negative dependency to annual household income refleted by a correlation from -59% to -72% during the 4 year analized period. This desease is the one that presentd the lowest correlation factor among all the analized deseases, this result suggest that not only but additional variables are related to this desease.
 
 Highblood pressure shows a negative correlation from -68% to -73%, something  interesting is the fact highblood pressure is the only desease that shows a slightly but consistent reduction of dependency vs anual household income, from -73% in 2016 up to -68% during 2018, is there aditional factors that are helping people to get over HBP? Aditional data and a deep dive may help for better understanding.
+
+Do the 6 variables to study have a normality distribution in order to be analyzed as it?
+
+H0= The data has a normal distribution.
+Ha= The data does not have a normal distribution.
+
+
+
+The variable Heart Attack in the years 2015 and 2017 reject the null hypothesis with p-values of 0.036112 and 0.012007, respectively and with a significance level of 0.05. The rest of the variable accept the null hypothesis with a significance level of 0.05
 
 
 # Conclusions
 
 As a general overview, this analysis represents a good first approach to undestand how annual household income is strongly related to each of the variables, is income the only variable? For sure not but is truly one of tha main variables that may suggest how a better dealing with these deseases can be made. Huge questions come to our team like why  with these results, there is no boom of  cheap healthy-industry? US people just do not want it? Or just do not know how harmful their current habbits are?  
-Why informative campaings are not the banner of any goverment or administraton? 
+Why informative campaings are not the banner of any goverment or administraton?  Are the subsides from the goverment to the corn and wheat affect US population healty?
 
-All these questions are now on the tabble waiting to be answered in further analysis.
+All these questions are now on the table waiting to be answered in further analysis.
 
