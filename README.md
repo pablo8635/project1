@@ -54,7 +54,6 @@ https://www.census.gov/library/stories/2019/09/us-median-household-income-up-in-
 
 # Data Interpretation
 
-Data Sets distribution
 Data sets shows mixed results, even when median household income has significantly increased during the analized four year period
 Annual Household Income (By region/scale)
 The barplot shows that Region 1 and Region 2, which are the states with the lowest Median Household Income, have decreased considerably being in 2018 only 5 states compared to the 11 states in 2015. Region 5 presents the states that have the highest Median Household Income. It is clear that the tendency is increasing year by year. In the case of Region 3, in 2015 was the region with the highest number of states belonging to this classification. However, it shows a considerably decreased, but recover in the following 2 years.
