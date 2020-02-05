@@ -31,11 +31,12 @@ High blood pressure: Percetage of adults who reported bieng told by a health pro
 
 # Questions
 
-1. What is the correlation between: Income and diabetes, obesity, heart attacks, highblood pressure and cardiovascular deaths
-2. Which of the previously explained deseases has the biggest growth rate during the last years?
-3. According to the analized data,income disparity among US popullation is generating poor people to become exposed to sicknesses?
-4. What conlusions can We infer about the median household income data?
-5. Do the data sets behave as normal distribution? If not, how should these datasets be analyzed?
+1. Does the median household income has increased through time?
+2. What conlusions can we infer about the median household income data?
+3. Do the data sets behave as normal distribution? If not, how should these datasets be analyzed?
+4. Is there any correlation between income and cardiovascular deaths, diabetes, heart attacks, obesity and high blood pressure?
+5. Is there any correlation between cardiovascular deaths, diabetes, heart attacks, obesity and high blood pressure?
+
 
 # Datasets and Databases
 
