@@ -35,7 +35,7 @@ High blood pressure: Percetage of adults who reported bieng told by a health pro
 2. Which of the previously explained deseases has the biggest growth rate during the last years?
 3. According to the analized data,income disparity among US popullation is generating poor people to become exposed to sicknesses?
 4. What conlusions can We infer about the median household income data?
-5. Do the data sets behave as normal distribution? If not, how should these datasets be analized?
+5. Do the data sets behave as normal distribution? If not, how should these datasets be analyzed?
 
 # Datasets and Databases
 
