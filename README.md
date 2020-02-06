@@ -76,7 +76,7 @@ The variable Heart Attack in the years 2015 and 2017 reject the null hypothesis 
 
 # Conclusions
 
-As a general overview, this analysis represents a good first approach to undestand how annual household income is strongly related to each of the variables, is income the only variable? For sure not but is truly one of tha main variables that may suggest how a better dealing with these deseases can be made. Huge questions come to our team like why with these results, there is no boom of cheap healthy-industry? US people just do not want it? Or just do not know how harmful their current habbits are?
+As a general overview, this analysis represents a good first approach to undestand how annual household income is strongly related to each of the variables, is income the only variable? For sure not, but is truly one of tha main variables that may suggest how a better dealing with these diseases can be made. Huge questions come to our team like why with these results, there is no boom of cheap healthy-industry? US people just do not want it? Or just do not know how harmful their current habbits are?
 
 Why informative campaings are not the banner of any goverment or administraton? Are the subsides from the goverment to the corn and wheat affect US population healty?
 All these questions are now on the table waiting to be answered in further analysis.
