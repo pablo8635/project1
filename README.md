@@ -1,7 +1,8 @@
 # Title
 
 Is there any relation amongst US population socioeconomic level and some of the most common diseases related with sedentary life style and junk food consumption like cardiovascular deaths, diabetes, heart attacks, high blood pressure and obesity?
-Team Members
+
+# Team Members
 
 * Juan Pablo Sada
 * Adriana Fajardo
